@@ -13,11 +13,16 @@ This repository contains a prototype app for breast biopsy planning with precise
 &nbsp;
 
 ## Pain Points 
-- Exact
+- Targeting lessions accurately is difficult from 2D scans as they lack the 3D perception.
+- Most of the time is spent over referencing a scan while putting the needle inside, resulting into more time needed for the biopsy procedure which is painful for the patient.
+- Patient movement might cause issues in needle guidance through prior scans.
+- Needle might pass through critical structures like blood vessels.
 
+&nbsp;
+&nbsp;
 
 ## Our Proposed Solution
-
+We proposed a solution to the above pain points through an application for accurate 
 
 
 &nbsp;
