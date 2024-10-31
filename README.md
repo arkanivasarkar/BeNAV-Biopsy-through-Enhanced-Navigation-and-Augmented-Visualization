@@ -35,7 +35,7 @@ The needle paths are calculated automatically and a feedback mechanism is establ
 
 
 <p align="center">
-  <img src="https://github.com/arkanivasarkar/BeNAV-Biopsy-through-Enhanced-Navigation-and-Augmented-Visualization/blob/main/resources/PrototypePipeline.png" alt="Image description" width="75%" height="100%">
+  <img src="https://github.com/arkanivasarkar/BeNAV-Biopsy-through-Enhanced-Navigation-and-Augmented-Visualization/blob/main/Resources/PrototypePipeline.png" alt="Image description" width="75%" height="100%">
 </p>
 
 &nbsp;
