@@ -32,11 +32,10 @@ The application works in two stages-
 - A augmented reality viewer to visualize a digital phantom over physical anatomy, to see the needle movement without continous image guidance.
   
 The needle paths are calculated automatically and a feedback mechanism is established via visual and auditory feedback to let the user know when to stop the needle to avoid excessive penetration and further trauma.
-
-
+&nbsp;
 <p align="center">
   <img src="https://github.com/arkanivasarkar/BeNAV-Biopsy-through-Enhanced-Navigation-and-Augmented-Visualization/blob/main/Resources/AppScreenshots.PNG" alt="Image description" width="78%" height="100%">
-  <img src="https://github.com/arkanivasarkar/BeNAV-Biopsy-through-Enhanced-Navigation-and-Augmented-Visualization/blob/main/Resources/PrototypePipeline.png" alt="Image description" width="75%" height="100%">
+  <img src="https://github.com/arkanivasarkar/BeNAV-Biopsy-through-Enhanced-Navigation-and-Augmented-Visualization/blob/main/Resources/PrototypePipeline.png" alt="Image description" width="75%" height="10%">
 </p>
 
 &nbsp;
